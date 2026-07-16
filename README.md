@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there 👋 I'm Lebogang Mojakie
 
-<!--
-**Boondass/Boondass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year Diploma in Computer Science Student at Tshwane University of Technology
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about building software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-Year Computer Science Student
+- ☕ Java Developer
+- 🌐 Web Developer
+- 📱 Learning Android Development with Kotlin
+- 💾 Interested in Software Engineering, Databases and UI/UX
+- 🚀 Currently seeking Internship and Graduate opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+- Kotlin
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- NetBeans
+- Android Studio
+- GlassFish
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Java GUI Encryption Application
+
+Desktop application developed using Java Swing that encrypts and decrypts messages through a graphical interface.
+
+### 👕 Clothing Brand Website
+
+Modern responsive website developed using HTML, CSS and JavaScript.
+
+### 🌐 Personal Portfolio Website
+
+Professional portfolio showcasing my projects, skills and experience.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Java
+- Android Development
+- Modern Web Development
+- Software Architecture
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **lebogangmojakie@gmail.com**
+
+🌐 Portfolio: *(Coming Soon)*
+
+💼 LinkedIn: *(Coming Soon)*
+
+⭐ Thanks for visiting my profile!
